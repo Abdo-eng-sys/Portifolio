@@ -57,6 +57,7 @@
 .home {
     background-color: var(--main-color);
     min-height: calc(100vh - 67px);
+    padding-bottom: 50px;
 }
 
 .home .info {
